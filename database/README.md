@@ -1,6 +1,5 @@
 # Menjalankan program
-1. ganti func menjadi main
-2. jalankan perintah go run namafile.go
+go run main.go
 
 ## Postgres
 https://github.com/golang-migrate/migrate/blob/master/database/postgres/TUTORIAL.md
